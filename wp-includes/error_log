@@ -1,0 +1,3 @@
+[15-Nov-2018 09:42:56 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/ieeensu/public_html/wp-includes/rss-functions.php on line 8
+[19-Nov-2018 21:01:26 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home/ieeensu/public_html/wp-includes/template-loader.php on line 28
+[13-Dec-2018 19:26:38 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home/ieeensu/public_html/wp-includes/class-walker-nav-menu.php on line 17

@@ -1,0 +1,7 @@
+[25-Oct-2018 22:20:06 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 02:30:21 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 04:36:56 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 07:25:52 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 19:22:17 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[09-Nov-2018 03:10:32 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[09-Nov-2018 07:35:13 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

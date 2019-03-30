@@ -1,0 +1,1 @@
+[30-Jan-2019 12:56:25 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/plugins/hello.php on line 60

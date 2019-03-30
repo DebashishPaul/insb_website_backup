@@ -1,0 +1,2 @@
+[06-Jun-2018 23:09:52 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home/ieeensu/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[06-Jun-2018 23:09:55 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home/ieeensu/public_html/wp-includes/theme-compat/embed-content.php on line 13

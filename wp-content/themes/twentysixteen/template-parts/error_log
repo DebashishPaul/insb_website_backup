@@ -1,0 +1,6 @@
+[27-Oct-2018 13:05:48 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home/ieeensu/public_html/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[28-Oct-2018 12:29:12 America/Chicago] PHP Fatal error:  Call to undefined function apply_filters() in /home/ieeensu/public_html/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[30-Oct-2018 05:43:48 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/ieeensu/public_html/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11
+[15-Nov-2018 20:17:16 America/Chicago] PHP Fatal error:  Call to undefined function apply_filters() in /home/ieeensu/public_html/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[15-Nov-2018 22:40:52 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/ieeensu/public_html/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11
+[05-Dec-2018 04:09:07 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/ieeensu/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

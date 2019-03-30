@@ -1,0 +1,2 @@
+[06-Dec-2018 05:22:32 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 16:48:38 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ieeensu/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22

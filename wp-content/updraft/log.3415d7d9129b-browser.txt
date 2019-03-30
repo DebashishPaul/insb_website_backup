@@ -1,0 +1,60 @@
+0000.771 (R) [notice] Looking for db archive: file name: backup_2018-09-16-1221_IEEE_NSU_Student_Branch_1e0b92c10d18-db.gz
+0000.772 (R) [notice] Archive is expected to be size: 465.8 KB: OK
+0000.773 (R) [notice] Looking for plugins archive: file name: backup_2018-09-16-1221_IEEE_NSU_Student_Branch_1e0b92c10d18-plugins.zip
+0000.773 (R) [notice] Archive is expected to be size: 41617.6 KB: OK
+0000.774 (R) [notice] Looking for themes archive: file name: backup_2018-09-16-1221_IEEE_NSU_Student_Branch_1e0b92c10d18-themes.zip
+0000.774 (R) [notice] Archive is expected to be size: 63337.5 KB: OK
+0000.774 (R) [notice] Looking for uploads archive: file name: backup_2018-09-16-1221_IEEE_NSU_Student_Branch_1e0b92c10d18-uploads.zip
+0000.775 (R) [notice] Archive is expected to be size: 200764 KB: OK
+0000.775 (R) [notice] Looking for others archive: file name: backup_2018-09-16-1221_IEEE_NSU_Student_Branch_1e0b92c10d18-others.zip
+0000.775 (R) [notice] Archive is expected to be size: 3.6 KB: OK
+0000.777 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.782 (R) [notice] Unpacking backup... (backup_2018-09-16-1221_IEEE_NSU_Student_Branch_1e0b92c10d18-db.gz, 0.5 Mb)
+0000.801 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.847 (R) [notice] Enabling Maintenance mode&#8230;
+0000.850 (R) [notice] Backup of: http://www.ieeensu.org
+0000.853 (R) [notice] Content URL: http://www.ieeensu.org/wp-content
+0000.853 (R) [notice] Uploads URL: http://www.ieeensu.org/wp-content/uploads
+0000.853 (R) [notice] Old table prefix: wp_
+0000.854 (R) [notice] Site information: multisite = 0
+0000.859 (R) [notice] New table prefix: wp_
+0000.963 (R) [notice] Processing table (MyISAM):  wp_options
+0003.823 (R) [notice] Processing table (MyISAM):  wp_users
+0003.941 (R) [notice] Processing table (MyISAM):  wp_usermeta
+0004.026 (R) [notice] Processing table (MyISAM):  wp_commentmeta
+0004.096 (R) [notice] Processing table (MyISAM):  wp_comments
+0004.163 (R) [notice] Processing table (MyISAM):  wp_links
+0004.332 (R) [notice] Processing table (MyISAM):  wp_postmeta
+0005.315 (R) [notice] Processing table (MyISAM):  wp_posts
+0005.750 (R) [notice] Processing table (MyISAM):  wp_term_relationships
+0005.810 (R) [notice] Processing table (MyISAM):  wp_term_taxonomy
+0005.873 (R) [notice] Processing table (MyISAM):  wp_termmeta
+0005.907 (R) [notice] Processing table (MyISAM):  wp_terms
+0005.989 (R) [notice] Processing table (MyISAM):  wp_yoast_seo_links
+0006.108 (R) [notice] Processing table (MyISAM):  wp_yoast_seo_meta
+0006.170 (R) [notice] Database queries processed: 50 in 5.36 seconds
+0006.208 (R) [notice] Processing table (MyISAM):  wp_layerslider
+0006.250 (R) [notice] Processing table (MyISAM):  wp_layerslider_revisions
+0006.304 (R) [notice] Processing table (MyISAM):  wp_nextend2_image_storage
+0006.436 (R) [notice] Processing table (MyISAM):  wp_nextend2_section_storage
+0006.511 (R) [notice] Processing table (MyISAM):  wp_nextend2_smartslider3_generators
+0006.873 (R) [notice] Processing table (MyISAM):  wp_nextend2_smartslider3_sliders
+0006.940 (R) [notice] Processing table (MyISAM):  wp_nextend2_smartslider3_sliders_xref
+0007.009 (R) [notice] Processing table (MyISAM):  wp_nextend2_smartslider3_slides
+0007.066 (R) [notice] Processing table (MyISAM):  wp_ngg_album
+0007.122 (R) [notice] Processing table (MyISAM):  wp_ngg_gallery
+0007.161 (R) [notice] Processing table (MyISAM):  wp_ngg_pictures
+0007.212 (R) [notice] Processing table (MyISAM):  wp_revslider_css
+0007.371 (R) [notice] Processing table (MyISAM):  wp_revslider_layer_animations
+0007.434 (R) [notice] Processing table (MyISAM):  wp_revslider_navigations
+0007.485 (R) [notice] Processing table (MyISAM):  wp_revslider_sliders
+0007.562 (R) [notice] Processing table (MyISAM):  wp_revslider_slides
+0007.609 (R) [notice] Processing table (MyISAM):  wp_revslider_static_slides
+0007.646 (R) [notice] Disabling Maintenance mode&#8230;
+0007.647 (R) [notice] Finished: lines processed: 98 in 6.84 seconds
+0007.648 (R) [notice] Cleaning up rubbish...
+0007.661 (R) [notice] Unpacking backup... (backup_2018-09-16-1221_IEEE_NSU_Student_Branch_1e0b92c10d18-plugins.zip, 40.6 Mb)
+0010.305 (R) [notice] Moving old data out of the way...
+0011.743 (R) [notice] Moving unpacked backup into place...
+0012.559 (R) [notice] Cleaning up rubbish...
+0012.564 (R) [notice] Unpacking backup... (backup_2018-09-16-1221_IEEE_NSU_Student_Branch_1e0b92c10d18-themes.zip, 61.9 Mb)
